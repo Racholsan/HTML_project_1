@@ -8,7 +8,7 @@ Developed @ One Month in NYC
 */
 
 body {
-	background: url('chess1.jpg');
+	background: url('https://racholsan.github.io/HTML_project/chess1.jpg');
 	/*background: url('../images/cookie-monster.jpg');*/
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
